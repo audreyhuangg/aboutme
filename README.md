@@ -6,7 +6,10 @@
 - drawing and painting
 - wave boarding 
 - swimming
-
+### Favorite Vacation Spots
+- Rome,Italy
+- Venice,Italy 
+- New York City, New York
 
 
 
