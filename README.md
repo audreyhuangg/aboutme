@@ -1,11 +1,11 @@
 # Audrey Huang
 ## About Me
 ### Hobbies
-- basketball and volleyball
-- canoeing and kayaking
-- drawing and painting
-- wave boarding 
-- swimming
+- Basketball and Volleyball
+- Canoeing and Kayaking
+- Drawing and Painting
+- Wave Boarding 
+- Swimming
 ### Favorite Vacation Spots
 - Rome, Italy
 - Venice, Italy 
