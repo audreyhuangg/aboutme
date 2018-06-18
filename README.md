@@ -18,8 +18,13 @@ Hey! My name is Audrey, and I am 13 years old. I am going to Memorial Middle Sch
 - New York City, New York
 
 ### Favorite Foods
-- Pasta
-- Pizza
-- Vegan Food
 - Chinese Food
+- Vegan Food
+- Pizza
+- Pasta
 
+### Favorite Desserts 
+- Cake
+- Donuts
+- Brownies 
+- Ice Cream
