@@ -1,10 +1,5 @@
-### Audrey Huang
-## About me
-
-#Hobbies
-Drawing and painting
-Sports
-
+## About Me
+# My Hobbies
 
 
 
