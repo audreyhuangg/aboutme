@@ -6,12 +6,14 @@
 - Drawing and Painting
 - Wave Boarding 
 - Swimming
+
 ### Favorite Vacation Spots
 - Rome, Italy
 - Venice, Italy 
 - Las Vegas. Nevado
 - Los Angeles, California
 - New York City, New York
+
 ### Favorite Foods
 - Pasta
 - Pizza
