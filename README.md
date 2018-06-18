@@ -9,10 +9,9 @@
 ### Favorite Vacation Spots
 - Rome, Italy
 - Venice, Italy 
-- New York City, New York
 - Las Vegas. Nevado
 - Los Angeles, California
-
+- New York City, New York
 
 
 
