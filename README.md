@@ -1,7 +1,7 @@
 # Audrey Huang
 ## About Me
 
-I am going to Memorial Middle School for 8th grade
+Hey! My name is Audrey, and I am 13 years old. I am going to Memorial Middle School to study 8th grade. 
 
 ### Hobbies
 - Basketball and Volleyball
