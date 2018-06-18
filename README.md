@@ -12,6 +12,9 @@
 - Las Vegas. Nevado
 - Los Angeles, California
 - New York City, New York
-
-
+### Favorite Foods
+- Pasta
+- Pizza
+- Vegan Food
+- Chinese Food
 
