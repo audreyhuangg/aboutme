@@ -1,11 +1,10 @@
 ## About Me
 # My Hobbies
-- drawing and painting
-- playing sports
+- basketball and volleyball
 - canoeing and kayaking
-- going to amusement parks
-
-
+- drawing and painting
+- wave boarding 
+- swimming
 
 
 
