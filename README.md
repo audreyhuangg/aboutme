@@ -7,8 +7,8 @@
 - wave boarding 
 - swimming
 ### Favorite Vacation Spots
-- Rome,Italy
-- Venice,Italy 
+- Rome, Italy
+- Venice, Italy 
 - New York City, New York
 
 
